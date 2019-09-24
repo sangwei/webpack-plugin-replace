@@ -1,5 +1,5 @@
 {
-  "name": "webpack-plugin-replace",
+  "name": "webpack-plugin-replace-2",
   "description": "Replace content while bundling.",
   "version": "1.2.0",
   "main": "lib/index.js",

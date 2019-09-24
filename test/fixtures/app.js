@@ -1,5 +1,5 @@
-import mri from 'mri';
-import foo from './foo';
+import mri from "mri";
+import foo from "./foo";
 
 mri([]);
 
@@ -8,5 +8,6 @@ console.log(`
 	BAR: DEMO_BAR
 	FOO: FOO_BAR
 	BAZ: FOO_BAZ
-	${ foo() }
+	XYZ: 42
+	${foo()}
 `);
